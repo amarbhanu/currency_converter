@@ -60,3 +60,4 @@ echo "<br>Amount:".$amount=56;
 echo "<br>$aCurrencySet:".$CurrentVal;
 echo "</pre><hr>";
 echo $amount * $CurrentVal;
+
